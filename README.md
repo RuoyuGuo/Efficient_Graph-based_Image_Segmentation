@@ -3,6 +3,8 @@ This project implement Image segmentation method proposed by [3].
 
 ### Example:
 
+![alt text](https://github.com/RuoyuGuo/Efficient_Graph-based_Image_Segmentation/blob/master/data/nara.jpg?raw=true)
+
 ### Requirement
 Annoy == 1.16.3
 Numpy == 1.18.1
@@ -100,5 +102,9 @@ Feel free to ask me if you have any questions or suggestions.
 [0] https://algorithms.tutorialhorizon.com/disjoint-set-union-find-algorithm-union-by-rank-and-path-compression/
 
 [1] https://algorithms.tutorialhorizon.com/disjoint-set-data-structure-union-find-algorithm/
+<<<<<<< HEAD
 
 [2] http://people.cs.uchicago.edu/~pff/papers/seg-ijcv.pdf
+=======
+[2] http://people.cs.uchicago.edu/~pff/papers/seg-ijcv.pdf
+>>>>>>> 5515681ca8ec50142cd79af323e3b160cef9e3bb
