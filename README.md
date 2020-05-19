@@ -8,17 +8,20 @@ This project implement Image segmentation method proposed by [3].
 ![alt text](https://github.com/RuoyuGuo/Efficient_Graph-based_Image_Segmentation/blob/master/data/nara_resized.jpg?raw=true)
 * k=300, graph_type='grid'
 
-![alt text](https://github.com/RuoyuGuo/Efficient_Graph-based_Image_Segmentation/blob/master/results/segmented_nara_grid_graph.jpg.jpg?raw=true)
+![alt text](https://github.com/RuoyuGuo/Efficient_Graph-based_Image_Segmentation/blob/master/results/segmented_nara_grid_graph.jpg?raw=true)
 * k=230, graph_type='nn', n_tree=15
 
-![alt text](https://github.com/RuoyuGuo/Efficient_Graph-based_Image_Segmentation/blob/master/results/segmented_nara_nn_graph.jpg.jpg?raw=true)
+![alt text](https://github.com/RuoyuGuo/Efficient_Graph-based_Image_Segmentation/blob/master/results/segmented_nara_nn_graph.jpg?raw=true)
 
 * orignial image
+
 ![alt text](https://github.com/RuoyuGuo/Efficient_Graph-based_Image_Segmentation/blob/master/data/eiffel_resized.jpg?raw=true)
 * k=300, graph_type='grid'
-![alt text](https://github.com/RuoyuGuo/Efficient_Graph-based_Image_Segmentation/blob/master/results/segmented_eiffel_grid_graph.jpg.jpg?raw=true)
+
+![alt text](https://github.com/RuoyuGuo/Efficient_Graph-based_Image_Segmentation/blob/master/results/segmented_eiffel_grid_graph.jpg?raw=true)
 * k=230, graph_type='nn', n_tree=15
-![alt text](https://github.com/RuoyuGuo/Efficient_Graph-based_Image_Segmentation/blob/master/results/segmented_eiffel_nn_graph.jpg.jpg?raw=true)
+
+![alt text](https://github.com/RuoyuGuo/Efficient_Graph-based_Image_Segmentation/blob/master/results/segmented_eiffel_nn_graph.jpg?raw=true)
 
 
 ### Requirement
