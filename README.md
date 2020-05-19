@@ -3,13 +3,26 @@ This project implement Image segmentation method proposed by [3].
 
 ### Example:
 
-![alt text](https://github.com/RuoyuGuo/Efficient_Graph-based_Image_Segmentation/blob/master/data/nara.jpg?raw=true)
+* orignial image
+![alt text](https://github.com/RuoyuGuo/Efficient_Graph-based_Image_Segmentation/blob/master/data/nara_resized.jpg?raw=true)
+* k=300, graph_type='grid'
+![alt text](https://github.com/RuoyuGuo/Efficient_Graph-based_Image_Segmentation/blob/master/result/segmented_nara_grid_graph.jpg.jpg?raw=true)
+* k=230, graph_type='nn', n_tree=15
+![alt text](https://github.com/RuoyuGuo/Efficient_Graph-based_Image_Segmentation/blob/master/result/segmented_nara_nn_graph.jpg.jpg?raw=true)
+
+* orignial image
+![alt text](https://github.com/RuoyuGuo/Efficient_Graph-based_Image_Segmentation/blob/master/data/eiffel_resized.jpg?raw=true)
+* k=300, graph_type='grid'
+![alt text](https://github.com/RuoyuGuo/Efficient_Graph-based_Image_Segmentation/blob/master/result/segmented_eiffel_grid_graph.jpg.jpg?raw=true)
+* k=230, graph_type='nn', n_tree=15
+![alt text](https://github.com/RuoyuGuo/Efficient_Graph-based_Image_Segmentation/blob/master/result/segmented_eiffel_nn_graph.jpg.jpg?raw=true)
+
 
 ### Requirement
-Annoy == 1.16.3
-Numpy == 1.18.1
-Python == 3.7.6
-scipy == 1.4.1
+* Annoy == 1.16.3
+* Numpy == 1.18.1
+* Python == 3.7.6
+* scipy == 1.4.1
 
 ### Library used:
 * Annoy
@@ -102,9 +115,5 @@ Feel free to ask me if you have any questions or suggestions.
 [0] https://algorithms.tutorialhorizon.com/disjoint-set-union-find-algorithm-union-by-rank-and-path-compression/
 
 [1] https://algorithms.tutorialhorizon.com/disjoint-set-data-structure-union-find-algorithm/
-<<<<<<< HEAD
 
 [2] http://people.cs.uchicago.edu/~pff/papers/seg-ijcv.pdf
-=======
-[2] http://people.cs.uchicago.edu/~pff/papers/seg-ijcv.pdf
->>>>>>> 5515681ca8ec50142cd79af323e3b160cef9e3bb
