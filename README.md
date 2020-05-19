@@ -3,6 +3,8 @@ This project implement Image segmentation method proposed by [3].
 
 ### Example:
 
+![alt text](https://github.com/RuoyuGuo/Efficient_Graph-based_Image_Segmentation/blob/master/data/nara.jpg?raw=true)
+
 ### Requirement
 Annoy == 1.16.3
 Numpy == 1.18.1
