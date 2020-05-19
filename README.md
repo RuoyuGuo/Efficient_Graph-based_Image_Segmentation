@@ -98,5 +98,7 @@ Feel free to ask me if you have any questions or suggestions.
 
 ### reference:
 [0] https://algorithms.tutorialhorizon.com/disjoint-set-union-find-algorithm-union-by-rank-and-path-compression/
+
 [1] https://algorithms.tutorialhorizon.com/disjoint-set-data-structure-union-find-algorithm/
+
 [2] http://people.cs.uchicago.edu/~pff/papers/seg-ijcv.pdf
